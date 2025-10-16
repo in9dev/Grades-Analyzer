@@ -1,6 +1,8 @@
 # Grades-Analyzer
 A smart Python tool to analyze and visualize my school grades with real-time weighted averages.
 
+### Features
+
 * ✅ Enter multiple summative and formative grades per subject
 * ✅ Automatically calculate weighted averages (70% Summative, 30% Formative)
 * ✅ Supports partial subjects (only formatives or only summatives)
