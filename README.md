@@ -27,5 +27,16 @@ grade-analyzer/
 * Handling data persistence with CSV files
 * Using Pandas for data manipulation
 * Using Matplotlib and NumPy for data visualization
-* Writing modular and readable Python scripts
+* Writing modular and readable Python scripts1
 * Building tools that help real students track progress
+
+### Grading system
+- Summatives (70%) → Major assignments, exams, or projects
+- Formatives (30%) → Quizzes, homework, classwork
+- Final Grade = (Summative Avg × 0.7) + (Formative Avg × 0.3)
+
+##### Example
+| Subject | Summative Avg | Formative Avg | Final |
+|---------|---------------|---------------|-------|
+| Physics | 97.5          | 98.75         | 97.9  |
+| English | 0             | 81            | 81    |
