@@ -40,3 +40,21 @@ grade-analyzer/
 |---------|---------------|---------------|-------|
 | Physics | 97.5          | 98.75         | 97.9  |
 | English | 0             | 81            | 81    |
+
+
+### Output
+
+##### grades.csv
+```csv
+Subject,Summative (avg),Formative (avg),Weighted_Avg
+Islamic,100.0,100.0,100.0
+English,0.0,81.0,81.0
+Psychology,96.67,90.0,94.67
+Arabic,93.34,100.0,95.33
+Stats & Prob,100.0,76.67,93.0
+Physics,97.5,98.75,97.9
+Environmental Studies,93.33,97.92,94.71
+```
+
+##### Plot
+![Plot][grade_chart.png]
