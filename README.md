@@ -44,7 +44,7 @@ grade-analyzer/
 
 ### Output
 
-##### grades.csv
+#### grades.csv
 ```csv
 Subject,Summative (avg),Formative (avg),Weighted_Avg
 Islamic,100.0,100.0,100.0
@@ -56,5 +56,5 @@ Physics,97.5,98.75,97.9
 Environmental Studies,93.33,97.92,94.71
 ```
 
-##### Plot
-![Plot][grade_chart.png]
+#### Plot
+![Grades Chart](grade_chart.png)
